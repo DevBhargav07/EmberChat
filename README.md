@@ -1,4 +1,4 @@
-# Real Time Chat_Application
+# EmberChat -  Real Time Chat_Application With Expirey Time
 
 A full-stack web application built as a learning project for backend architecture, authentication, authorization, database design, and modern frontend development.
 
